@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiOfertasMercadoApplication<api-ofertas-mercado>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "app.ApiOfertasMercadoApplication",
+            "projectName": "api-ofertas-mercado",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
